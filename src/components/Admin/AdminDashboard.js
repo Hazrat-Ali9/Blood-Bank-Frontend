@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { getAllUsers, toggleBanUser } from "../../api/api";
-
+// admin dashboard
 export default function AdminDashboard() {
   const [users, setUsers] = useState([]);
   const [loading, setLoading] = useState(true);
