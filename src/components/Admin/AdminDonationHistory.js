@@ -5,7 +5,7 @@ import {
   updateDonation,
   deleteDonation,
 } from "../../api/api";
-
+// admin donate history
 export default function AdminDonations() {
   const [donors, setDonors] = useState([]);
   const [selectedDonor, setSelectedDonor] = useState("");
