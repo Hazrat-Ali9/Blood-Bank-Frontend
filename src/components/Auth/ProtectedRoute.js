@@ -5,3 +5,4 @@ export default function ProtectedRoute({ children }) {
   if (!getToken()) return <Navigate to="/login" replace />;
   return children;
 }
+// Protected Route
