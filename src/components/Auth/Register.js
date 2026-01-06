@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { register } from "../../api/api";
-
+// Register js
 export default function Register() {
   const [form, setForm] = useState({ 
     fullName: "", 
