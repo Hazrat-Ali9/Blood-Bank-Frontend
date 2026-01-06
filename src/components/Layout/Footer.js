@@ -72,12 +72,12 @@ export default function Footer() {
                 <span className="text-gray-200">
                   Thank you,{" "}
                   <a
-                    href="https://www.facebook.com/mahfuz0220"
+                    href=""
                     target="_blank"
                     rel="noopener noreferrer"
                     className="font-semibold text-red-100 hover:underline"
                   >
-                    Md. Mahfuzur Rahman
+                    Hazrat Ali
                   </a>
                 </span>
               </div>
@@ -219,25 +219,25 @@ export default function Footer() {
               <h4 className="font-semibold mb-3 text-white">Follow Us</h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://www.facebook.com/tamimkhan842/"
+                  href=""
                   className="w-10 h-10 bg-red-700 rounded-full flex items-center justify-center hover:bg-red-600 transition-colors"
                 >
                   <FaFacebook />
                 </a>
                 <a
-                 href="https://www.facebook.com/tamimkhan842/"
+                 href=""
                   className="w-10 h-10 bg-red-700 rounded-full flex items-center justify-center hover:bg-red-600 transition-colors"
                 >
                   <FaTwitter />
                 </a>
                 <a
-                  href="https://www.facebook.com/tamimkhan842/"
+                  href=""
                   className="w-10 h-10 bg-red-700 rounded-full flex items-center justify-center hover:bg-red-600 transition-colors"
                 >
                   <FaInstagram />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/mdtamimkhan/"
+                  href=""
                   className="w-10 h-10 bg-red-700 rounded-full flex items-center justify-center hover:bg-red-600 transition-colors"
                 >
                   <FaLinkedin />
@@ -278,13 +278,13 @@ export default function Footer() {
             <div className="flex items-center space-x-2">
               <span className="text-gray-300">Developed by</span>
               <a
-                href="https://github.com/Tamimkhan7"
+                href="https://github.com/Hazrat-Ali9"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center space-x-2 bg-red-800 px-4 py-2 rounded-lg hover:bg-red-700 transition-colors"
               >
                 <FaGithub />
-                <span className="font-semibold">Tamim Khan</span>
+                <span className="font-semibold">Hazrat Ali</span>
               </a>
             </div>
 
@@ -292,15 +292,15 @@ export default function Footer() {
             <div className="flex items-center space-x-2">
               <span className="text-gray-300">Powered by</span>
               <a
-                href="https://www.codist.dev/"
+                href="https://www.facebook.com/HMSoftTecHInnovatioN"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="HMSofTech Innovation"
                 className="flex items-center space-x-2 bg-gradient-to-r from-red-700 to-red-600 px-4 py-2 rounded-lg hover:from-red-600 hover:to-red-500 transition-all"
               >
                 <div className="w-6 h-6 bg-white rounded flex items-center justify-center">
                   <div className="w-3 h-3 bg-red-600 rounded"></div>
                 </div>
-                <span className="font-bold">Codist</span>
+                <span className="font-bold">HMSoftech Innovation</span>
               </a>
             </div>
           </div>
